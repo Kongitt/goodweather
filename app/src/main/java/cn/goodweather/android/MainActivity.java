@@ -1,4 +1,4 @@
-package cn.wkx.goodweather;
+package cn.goodweather.android;
 
 import androidx.appcompat.app.AppCompatActivity;
 
